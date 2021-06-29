@@ -1,0 +1,12 @@
+{
+  "name": "expo-sandbox",
+  "displayName": "expo-sandbox",
+  "expo": {
+    "name": "expo-sandbox",
+    "slug": "expo-sandbox",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
